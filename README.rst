@@ -1,6 +1,6 @@
 DuckDuckGo-Python3
 
-A Python3 library for searching using the DuckDuckGo API.
+A Python3 library for searching using the DuckDuckGo API and full search via browser.
 
 Copyright (c) 2016 Abhishek Poonia <abhishekpoonia22@gmail.com>
 
